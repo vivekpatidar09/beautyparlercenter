@@ -1,0 +1,105 @@
+
+          body {
+               /* width: 70vw;
+               height: 120vh; */
+          }
+
+          .container_flex{
+               display: flex;
+               width: 60%;
+               margin: auto;
+          }
+          .form1 {
+               background-color:#000000;
+               color: #fff;
+               padding: 15px;
+               width: 736px;
+               border: 10px solid #fff;
+          }
+          .form2{
+               border: none;
+          }
+
+          .formHeading {
+               background-color:#2F4F4F;
+               color: #fff;
+               width: 80%;               
+               border-radius: 7px;
+               margin-top: auto;
+               margin-bottom: 15px;
+               text-align: center;
+               margin-left: 60px;
+          }
+
+          table{
+               width: 700px;
+               margin: auto;
+               border: 2px solid #fff;
+               border-radius: 5px;
+               padding: 5px;
+               margin-bottom: 15px;
+          }
+          td{
+               
+               border: 1px solid ;
+               border-radius: 5px ;
+               padding: 20px;
+               font-size: 22px;
+               font-weight: 700;
+               border: 2px solid #96693D;
+          }
+          ::placeholder {
+                 color:#2B36A4;
+                              
+               }
+
+          .category {
+               color: #cc1e1e;
+               text-align: left;
+               font-weight: 600;
+          }
+
+          a {
+          
+               color: #0093BC;
+          }
+
+          .form-btn {
+               margin-top: 40px;
+               margin-left: 5px;
+               background-color:#000000;
+               color: #fff;;
+               font-weight: 700;
+               border-radius: 5px;
+               font-size: 16px;
+          }
+
+          .form-btn:hover {
+               background-color: #fff;
+               color: black;
+          }
+
+          input[type="date"],
+          input[type="time"],
+          input[type="text"],
+          input[type="tel"],
+          input[type="email"] {
+               width: 95%;
+               border: none;
+               background-color: #000000;
+               color: #2B36A4;
+               border: 3px solid #cf8439;
+               border-radius: 5px;
+               font-size: 25px;
+          }
+          textarea{
+               width: 95%;
+               background-color: #000000;
+               color: #2B36A4;
+               font-size: 25px;
+               border: none;
+               border: 3px solid #cf8439;
+               border-radius: 5px;
+          }
+
+         
